@@ -1,0 +1,148 @@
+01. HM650规格
+https://qingyun.huawei.com/harmonyos-computer/qingyun-hm650/specs/
+02. HM650参考报价
+https://www.ithome.com/1/023/324.htm
+03. 华为购买指引
+https://consumer.huawei.com/cn/support/content/zh-cn16121058/
+04. A19 Pro跑分
+https://nanoreview.net/en/soc/apple-a19-pro
+05. iPhone 18 Pro实测
+https://www.tomsguide.com/phones/iphones/iphone-18-pro-benchmarks-apple-just-built-the-most-powerful-phones-weve-ever-seen
+06. A20 Pro跑分
+https://nanoreview.net/en/soc/apple-a20-pro
+07. iPhone 18 Pro发布稿
+https://www.apple.com.cn/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
+08. 初代骁龙8 Elite跑分
+https://nanoreview.net/en/soc/qualcomm-snapdragon-8-gen-4
+09. 骁龙8 Elite Gen 5跑分
+https://nanoreview.net/en/soc/qualcomm-snapdragon-8-elite-2
+10. 骁龙8 Elite Gen 6跑分
+https://nanoreview.net/en/soc/qualcomm-snapdragon-8-elite-gen-6
+11. 骁龙8 Elite Gen 6规格
+https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-gen-6-mobile-platform
+12. 骁龙8 Elite Extreme Gen 6跑分
+https://nanoreview.net/en/soc/qualcomm-snapdragon-8-elite-gen-6-pro
+13. 天玑9400跑分
+https://nanoreview.net/en/soc/mediatek-dimensity-9400
+14. 天玑9500跑分
+https://nanoreview.net/en/soc/mediatek-dimensity-9500
+15. 天玑9600 Pro与骁龙Gen 6对比
+https://nanoreview.net/en/soc-compare/qualcomm-snapdragon-8-elite-gen-6-vs-mediatek-dimensity-9600-pro
+16. 天玑9600 Pro规格
+https://www.mediatek.com/products/smartphones/mediatek-dimensity-9600-pro
+17. 玄戒O1跑分
+https://nanoreview.net/en/soc/xiaomi-xring-o1
+18. 玄戒O3跑分
+https://nanoreview.net/en/soc/xiaomi-xring-o3
+19. M1至M5 Max跑分汇总
+https://blog.dima.tools/en/apple/macbook-pro-m1-to-m5-max-chip-comparison/
+20. M1官方概览
+https://www.apple.com/euro/business/mac/pdf/Apple-at-Work-M1-Overview.pdf
+21. M2发布稿
+https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/
+22. M3发布稿
+https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/
+23. Mac mini M6实测
+https://www.tomsguide.com/computing/apple-desktops/mac-mini-m6-review
+24. M4发布稿
+https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/
+25. M5系列实测
+https://www.tomsguide.com/computing/macbooks/weve-already-tested-the-chips-inside-apples-oled-macbook-pro-and-heres-what-to-expect
+26. M5发布稿
+https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
+27. Mac mini规格
+https://www.apple.com.cn/mac-mini/specs/
+28. M1 Pro与Max发布稿
+https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/
+29. M2 Pro与Max发布稿
+https://www.apple.com/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows/
+30. M4 Pro与Max发布稿
+https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/
+31. M5 Pro与Max芯片发布稿
+https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/
+32. M5 Max实测
+https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m5-max-2026-review
+33. Ultra 7 270K Plus跑分
+https://nanoreview.net/en/cpu/intel-core-ultra-7-270k-plus
+34. Ultra 7 270K Plus规格
+https://www.intel.com/content/www/us/en/products/sku/245692/intel-core-ultra-7-processor-270k-plus-36m-cache-up-to-5-50-ghz/specifications.html
+35. Ultra 9 285K跑分
+https://nanoreview.net/en/cpu/intel-core-ultra-9-285k
+36. Ultra 9 285K规格
+https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html
+37. Ryzen 9 9950X跑分
+https://nanoreview.net/en/cpu/amd-ryzen-9-9950x
+38. Ryzen 9 9950X规格
+https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html
+39. Ryzen AI Max+ 395跑分
+https://nanoreview.net/en/cpu/amd-ryzen-ai-max-395
+40. Ryzen AI Max+ 395官方支持
+https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-ai-max-series/amd-ryzen-ai-max-plus-395.html
+41. 骁龙X2E-94-100参考资料
+https://www.cpu-monkey.com/en/cpu-qualcomm_snapdragon_x2_elite_extreme_x2e_94_100
+42. 骁龙X2 Elite规格
+https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Snapdragon-X2-Elite-Product-Brief.pdf
+43. Ultra 5 225跑分
+https://nanoreview.net/en/cpu/intel-core-ultra-5-225
+44. Ultra 5 225规格
+https://www.intel.com/content/www/us/en/products/sku/241070/intel-core-ultra-5-processor-225-20m-cache-up-to-4-90-ghz/specifications.html
+45. Ryzen 7 8700G用户跑分
+https://browser.geekbench.com/v6/cpu/8102280
+46. Ryzen 7 8700G规格
+https://shop-us-en.amd.com/amd-ryzen-7-8700G-processor/
+47. Mac mini中国价格
+https://www.apple.com.cn/shop/buy-mac/mac-mini
+48. Mac mini M6与M5 Pro中国发布稿
+https://www.apple.com.cn/newsroom/2026/08/apple-unveils-powerful-mac-mini-with-m6-and-m5-pro/
+49. MacBook Pro M5 Pro与Max中国发布稿
+https://www.apple.com.cn/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
+50. HM650功能及国产化口径
+https://qingyun.huawei.com/harmonyos-computer/qingyun-hm650/
+51. Intel小新套机报价
+https://www.lenovo.com.cn/wiki/product-1053774.html
+52. AMD小新一体机报价
+https://www.lenovo.com.cn/wiki/product-1051980.html
+53. 联想台式机价格参考
+https://www.lenovo.com.cn/wiki/article-50153.html
+54. RTX 50系列规格
+https://www.nvidia.com/en-us/geforce/graphics-cards/compare/?section=compare-16
+55. 麒麟X90安全可靠测评
+https://www.itsec.gov.cn/aqkkcp/cpgg/202503/t20250314_216512.html
+56. HarmonyOS与统信UOS安全可靠测评
+https://www.itsec.gov.cn/aqkkcp/cpgg/202601/t20260116_249958.html
+57. 苹果加密与数据保护
+https://support.apple.com/en-sg/guide/security/sece3bee0835/1
+58. 苹果FileVault集中管理
+https://support.apple.com/en-mt/guide/deployment/dep0a2cb7686/web
+59. 微软Windows 11 Secured-core说明
+https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure-11
+60. 微软BitLocker与Intune管理
+https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-bitlocker-windows
+61. 苹果硬件安全
+https://support.apple.com/en-ge/guide/security/secf020d1074/web
+62. 统信UOS生态
+https://www.chinauos.com/
+63. 鸿蒙Office适配说明
+https://consumer.huawei.com/cn/support/content/zh-cn16082940/
+64. 鸿蒙文件与EXE兼容说明
+https://consumer.huawei.com/cn/support/content/zh-cn16066985/
+65. 鸿蒙应用市场与虚拟机说明
+https://consumer.huawei.com/cn/support/content/zh-cn16078442/
+66. 台式机政府采购需求标准
+https://www.ccgp.gov.cn/zcfg/bzygf/202312/t20231227_21344813.htm
+67. 本国产品及价格评审政策
+https://m.mof.gov.cn/czxw/202509/t20250930_3973725.htm
+68. 海光＋统信4965元历史成交
+https://www.ccgp.gov.cn/cggg/zygg/cjgg/202501/t20250114_24066203.htm
+69. 兆芯整机4750元历史成交
+https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260624_26803733.htm
+70. 中央国家机关台式机批量中标
+https://www.ccgp.gov.cn/cggg/zygg/zbgg/202409/t20240912_23140019.htm
+71. 福建台式机框架采购入围
+https://www.ccgp.gov.cn/cggg/dfgg/cjgg/202608/t20260824_27192212.htm
+72. 鸿蒙外设兼容查询
+https://consumer.huawei.com/cn/support/content/zh-cn16050387/
+73. 极客湾MateBook Pro麒麟X90实测
+https://www.youtube.com/watch?v=-w0lecta894
+74. TechInsights麒麟X90拆解
+https://www.techinsights.com/ko/node/60000
